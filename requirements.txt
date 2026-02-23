@@ -1,0 +1,12 @@
+jupyterlab
+notebook
+ipykernel
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+sqlalchemy
+psycopg2-binary
+phik
+python-dotenv
